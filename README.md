@@ -1,0 +1,2 @@
+# LinuxIsNotScary
+Linux Korkunç Değildir !!!
