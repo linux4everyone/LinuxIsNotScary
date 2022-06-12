@@ -1,2 +1,3 @@
 # LinuxIsNotScary
-Linux Korkunç Değildir !!!
+### Linux Korkunç Değildir !!!
+##### Beklemede kalın :))
